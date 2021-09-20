@@ -11,7 +11,6 @@ public class Multiplication {
         int correct = 0;
         int wrong = 0;
         for(int i = 1; i <= 10; i++){
-
             System.out.print(i + " * " + numberToMultiply + "= " );
             answer = keyboard.nextInt();
 
